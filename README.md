@@ -97,14 +97,6 @@ The United Kingdom faces persistent challenges related to road safety, with road
 
 ---
 
-## Connect With Me
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
-
-For any inquiries or collaboration opportunities, please feel free to reach out via LinkedIn. Your feedback and suggestions are highly appreciated.
-
----
-
 ## Additional Links
 
 - **Excel Dashboard:** [Drive Link](https://drive.google.com/drive/folders/1lFRvFkvlKaC5Ai1x0HAWWC31acU4jp-Y?usp=drive_link)
